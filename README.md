@@ -5396,3 +5396,10 @@ for alignment in blast_record.alignments:
 
 
 
+
+
+
+
+## Open Computer Vision
+We discovered here how we can work with images, messing around with the different features of the images.
+
